@@ -15,6 +15,6 @@ A web hosting service for recognized [Ubuntu Members](https://ubuntu.com/project
 
 MIT — see [LICENSE](./LICENSE).
 
----
+----
 
 *Maintained by [404rafik](https://github.com/404rafik) and [UbuntuMax](https://github.com/UbuntuMax).*
